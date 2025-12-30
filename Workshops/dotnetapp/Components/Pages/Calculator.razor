@@ -1,0 +1,52 @@
+@page "/calculator"
+@namespace dotnetapp.Pages
+
+<div class="calculator-container">
+    <h1>Blazor Calculator</h1>
+
+    <div class="calculator-form">
+        <div class="input-group">
+            <label>First Number</label>
+            <input type="number"
+                   @bind="Num1"
+                   @bind:event="oninput" />
+        </div>
+
+        <div class="input-group">
+            <label>Second Number</label>
+            <input type="number"
+                   @bind="Num2"
+                   @bind:event="oninput" />
+        </div>
+
+        <div class="operation-buttons">
+            <button type="button" class="operation-btn" @onclick="Add">+</button>
+            <button type="button" class="operation-btn" @onclick="Subtract">-</button>
+            <button type="button" class="operation-btn" @onclick="Multiply">×</button>
+            <button type="button" class="operation-btn" @onclick="Divide">÷</button>
+        </div>
+
+        <button type="button" class="clear-btn" @onclick="Clear">
+            Clear
+        </button>
+    </div>
+
+    <div class="result-display">
+        <h3>Result</h3>
+
+        <div class="result-value">
+            @if (ShowError)
+            {
+                <span style="color:#e74c3c">@ErrorMessage</span>
+            }
+            else if (HasResult)
+            {
+                @Result
+            }
+            else
+            {
+                <span style="opacity:.6">Result will appear here</span>
+            }
+        </div>
+    </div>
+</div>

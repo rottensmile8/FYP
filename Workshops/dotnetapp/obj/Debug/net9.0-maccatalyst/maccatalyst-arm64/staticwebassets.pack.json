@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/rakeshgurung/Documents/3rd Year/AD/Workshops/dotnetapp/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/scopedcss/bundle/dotnetapp.styles.css",
+      "PackagePath": "staticwebassets/dotnetapp.styles.css"
+    },
+    {
+      "Id": "/Users/rakeshgurung/Documents/3rd Year/AD/Workshops/dotnetapp/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/rakeshgurung/Documents/3rd Year/AD/Workshops/dotnetapp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/rakeshgurung/Documents/3rd Year/AD/Workshops/dotnetapp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/rakeshgurung/Documents/3rd Year/AD/Workshops/dotnetapp/wwwroot/images/headphones.png",
+      "PackagePath": "staticwebassets/images/headphones.png"
+    },
+    {
+      "Id": "/Users/rakeshgurung/Documents/3rd Year/AD/Workshops/dotnetapp/wwwroot/images/ipad.png",
+      "PackagePath": "staticwebassets/images/ipad.png"
+    },
+    {
+      "Id": "/Users/rakeshgurung/Documents/3rd Year/AD/Workshops/dotnetapp/wwwroot/images/laptop.png",
+      "PackagePath": "staticwebassets/images/laptop.png"
+    },
+    {
+      "Id": "/Users/rakeshgurung/Documents/3rd Year/AD/Workshops/dotnetapp/wwwroot/images/phone.png",
+      "PackagePath": "staticwebassets/images/phone.png"
+    },
+    {
+      "Id": "/Users/rakeshgurung/Documents/3rd Year/AD/Workshops/dotnetapp/wwwroot/images/smartwatch.png",
+      "PackagePath": "staticwebassets/images/smartwatch.png"
+    },
+    {
+      "Id": "/Users/rakeshgurung/Documents/3rd Year/AD/Workshops/dotnetapp/wwwroot/images/tablet.png",
+      "PackagePath": "staticwebassets/images/tablet.png"
+    },
+    {
+      "Id": "/Users/rakeshgurung/Documents/3rd Year/AD/Workshops/dotnetapp/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/staticwebassets/msbuild.build.dotnetapp.props",
+      "PackagePath": "build\\dotnetapp.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/staticwebassets/msbuild.buildMultiTargeting.dotnetapp.props",
+      "PackagePath": "buildMultiTargeting\\dotnetapp.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/staticwebassets/msbuild.buildTransitive.dotnetapp.props",
+      "PackagePath": "buildTransitive\\dotnetapp.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/staticwebassets/msbuild.dotnetapp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/staticwebassets/msbuild.dotnetapp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

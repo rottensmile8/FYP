@@ -1,0 +1,85 @@
+@using dotnetapp.Models
+@using dotnetapp.Components.stores
+
+
+@* Task 1 *@
+
+@page "/"
+
+
+<div class="container">
+    <h2 class="text-center mb-4">Products</h2>
+
+
+
+    <div class="row">
+        @foreach (var product in products)
+        {
+            <div class="col-md-4 d-flex justify-content-center">
+                <ProductCard ProductItem="product" />
+            </div>
+        }
+    </div>
+</div>
+
+@code {
+
+    private List<Product> products = new List<Product>
+{
+
+
+new Product
+{
+Id = 1,
+Name = "Laptop",
+Image = "images/laptop.png  ",
+Price = 999.99m,
+LikesCount = 150
+},
+@* we must create images folder
+in wwwroot and give path to that image   *@
+new Product
+{
+Id = 2,
+Name = "Smartphone",
+Image =
+"images/phone.png",
+Price = 699.99m,
+LikesCount = 320
+},
+new Product
+{
+Id = 3,
+Name = "Headphones",
+Image = "images/headphones.png",
+Price = 149.99m,
+LikesCount = 89
+},
+new Product
+{
+Id = 4,
+Name = "Smartwatch",
+Image = "images/smartwatch.png",
+Price = 299.99m,
+LikesCount = 210
+},
+new Product
+{
+Id = 5,
+Name = "Tablet",
+Image = "images/tablet.png",
+Price = 449.99m,
+LikesCount = 175
+},
+new Product
+{
+Id = 6,
+Name = "Ipad",
+Image = "images/ipad.png",
+Price = 449.99m,
+LikesCount = 175
+},
+
+
+};
+}

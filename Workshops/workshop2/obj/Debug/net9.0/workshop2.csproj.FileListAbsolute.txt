@@ -1,0 +1,14 @@
+/Users/rakeshgurung/Documents/3rd Year/AD/workshop2/bin/Debug/net9.0/workshop2
+/Users/rakeshgurung/Documents/3rd Year/AD/workshop2/bin/Debug/net9.0/workshop2.deps.json
+/Users/rakeshgurung/Documents/3rd Year/AD/workshop2/bin/Debug/net9.0/workshop2.runtimeconfig.json
+/Users/rakeshgurung/Documents/3rd Year/AD/workshop2/bin/Debug/net9.0/workshop2.dll
+/Users/rakeshgurung/Documents/3rd Year/AD/workshop2/bin/Debug/net9.0/workshop2.pdb
+/Users/rakeshgurung/Documents/3rd Year/AD/workshop2/obj/Debug/net9.0/workshop2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rakeshgurung/Documents/3rd Year/AD/workshop2/obj/Debug/net9.0/workshop2.AssemblyInfoInputs.cache
+/Users/rakeshgurung/Documents/3rd Year/AD/workshop2/obj/Debug/net9.0/workshop2.AssemblyInfo.cs
+/Users/rakeshgurung/Documents/3rd Year/AD/workshop2/obj/Debug/net9.0/workshop2.csproj.CoreCompileInputs.cache
+/Users/rakeshgurung/Documents/3rd Year/AD/workshop2/obj/Debug/net9.0/workshop2.dll
+/Users/rakeshgurung/Documents/3rd Year/AD/workshop2/obj/Debug/net9.0/refint/workshop2.dll
+/Users/rakeshgurung/Documents/3rd Year/AD/workshop2/obj/Debug/net9.0/workshop2.pdb
+/Users/rakeshgurung/Documents/3rd Year/AD/workshop2/obj/Debug/net9.0/workshop2.genruntimeconfig.cache
+/Users/rakeshgurung/Documents/3rd Year/AD/workshop2/obj/Debug/net9.0/ref/workshop2.dll
