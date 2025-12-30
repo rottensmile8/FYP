@@ -5,7 +5,7 @@ class NullOperation
     public void PerformNullChecks()
     {
         string? username = null; 
-        string result = (username == null) ? "Username is not available" : username;
+        string result = (username == null) ? "Username is not available for now" : username;
         Console.WriteLine(result);
 
         Console.WriteLine(username ?? "Username is not available (using ??)");
